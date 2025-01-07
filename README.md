@@ -121,7 +121,8 @@ scrapy crawl anime_spider
 ## Technologies Used
 - **Python**: Core programming language.
 - **Scrapy**: Web scraping framework.
-- **ScrapeOps**: Proxy and user-agent rotation.
+- **ScrapeOps**: Fake Header user-agent.
+- **ProxyScrape**: Proxy rotation.
 
 ---
 
