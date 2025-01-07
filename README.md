@@ -21,7 +21,7 @@ To enable proxy rotation and user-agent spoofing, configure the following variab
 
 ```python
 # ScrapeOps API key
-SCRAPEOPS_API_KEY = 'a497fde8-67fa-47a1-8e95-c15fc53f147e'
+SCRAPEOPS_API_KEY = 'a497fde8-67fa-47a1-8e95-xxxxxxxxx'
 
 # Fake User-Agent Endpoint
 SCRAPEOPS_FAKE_USER_AGENT_ENDPOINT = 'https://headers.scrapeops.io/v1/user-agents'
